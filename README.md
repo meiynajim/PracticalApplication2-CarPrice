@@ -35,7 +35,7 @@ Step 6. Feature Engineering & Data Pre-processing
 
            - Supervised learning to build price predictive model
            
-           - Feature Importance Selection vs Including PCA (as a comparison)
+           - Feature Importance Selection vs Including PCA (as a comparison option)
            
 **Section 3. Evaluation**
 
