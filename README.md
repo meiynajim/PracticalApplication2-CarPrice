@@ -70,9 +70,31 @@
 **Section 4. Evaluation**
 
 **Section 5. Deployment**
-1. Preliminary Data Insight Summary
-2. Actionable Insights
-3. Car Price Analytics Tool, such as an Interactive Dashboard
+In conclusion, this project focused on predicting used car prices using a structured approach based on the CRISP-DM framework. We started with understanding business objectives and data collection, followed by thorough data preparation, modeling, evaluation, and deployment phases. Here's a summary of our findings and actionable insights:
+
+#### 1. Preliminary Data Insight Summary
+![image.png](attachment:66536cc0-2b05-400b-98a9-ce059e2fe85a.png)
+
+Notes: 
+ - 1. More feature engineering for `type`, `state`, `title`, `drive`, `condition`, `transmission`, etc.
+ - 2. Since one of the critical variables, such as `model`, was not good to use direcctly, some of coefficients might show less desirable values
+ - 3. Luxury_Ind inlcluding brands: 'ferrari','audi', 'bmw', 'mercedesbenz', 'lexus', 'porsche', 'jaguar', 'land rover', 'tesla', 'acura', 'infiniti','lincoln','cadillac'. We should be able to modify the list
+
+#### 2. Actionable Insights
+
+By leveraging these insights, our business can improve its competitive edge, drive revenue growth, and enhance customer satisfaction.
+
+- **Optimize Pricing Strategy:**
+    - Implement dynamic pricing based on mileage, vehicle age, and demand to maximize profits.
+    - Monitor regional trends and adjust prices to align with local market conditions.
+
+- **Continuous Model Refinement:**
+    - Regularly update the predictive model with new data to maintain accuracy.
+    - Incorporate user feedback and market insights to enhance model performance.
+
+
+#### 3. Analytics Tool
+ - **Developing a pricing dashboard**
 
 **Section 6. Next Steps**
 
